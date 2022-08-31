@@ -50,7 +50,7 @@ body {
     top: 0;
     width: 0%;
   }
-  nav a:hover::before {
+  nav a:hover:before {
     width: 100%;
     color: black;
   }
@@ -167,7 +167,6 @@ width: 100%;
 text-decoration: none;
 display:flexbox;
 color: black;
-
  }
  
  
